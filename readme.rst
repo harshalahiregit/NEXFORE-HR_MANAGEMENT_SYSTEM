@@ -30,3 +30,11 @@ Installation
 
 ```bash
 git clone https://github.com/harshalahiregit/NEXFORE-HR_MANAGEMENT_SYSTEM.git
+
+*********************
+Documentation
+The complete project documentation is available in PDF format.
+
+Location:
+Document/Project_Documentation.pdf
+**********************
